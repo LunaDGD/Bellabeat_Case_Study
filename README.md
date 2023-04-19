@@ -69,12 +69,18 @@ information about daily activity, steps, and heart rate that can be used to expl
 
 #### Daily Activity
 In the Daily Activity CSV, a line graph was created to show the trend in daily VeryActiveMinutes. A trendline was added to the graph, which shows a downward trend. This indicates that the amount of VeryActiveMinutes decreased from the beginning of the data collection period until the last day.
-![image.png](attachment:565f9a8f-ade3-4821-9c32-16d80472c7c5.png)
+
+
+![image 1](https://user-images.githubusercontent.com/95651618/232960823-8c5cb75e-cead-4466-aa88-f79a48bdbfbf.png)
+
 
 After analyzing the data in the daily_activity CSV file, I created a bar graph comparing the average sedentary minutes to the average active minutes.
 The average sedentary minutes per day was found to be 749, while the average daily active minutes was 223. The average daily active minutes was found by combining the data from the very, moderate, and light active minutes.
 By comparing these two values, I found that the average sedentary minutes were 334.65% more than the average active minutes per day.
-![image.png](attachment:86586c8c-04a0-426c-944f-6688049f86cf.png)
+
+
+![image 2](https://user-images.githubusercontent.com/95651618/232960876-6f48f4b1-3c15-40eb-82f0-fca839ea7f9f.png)
+
 
 #### Steps
 In the next analysis, I focused on the step count data. After cleaning and processing the data, I created a pivot table to calculate the average daily steps taken for each week. The results showed that the steps stayed mostly consistent over the five-week period. Specifically:
@@ -85,7 +91,8 @@ In the next analysis, I focused on the step count data. After cleaning and proce
 - The participants do not meet the recommended 10,000 daily step count
 
 These findings suggest that the users in the dataset maintained a relatively consistent level of physical activity over the five-week period.
-![image.png](attachment:cb673928-2aa3-4d4a-b352-6c1c36aab773.png)
+
+![image 3](https://user-images.githubusercontent.com/95651618/232960965-d89bd35f-f638-4ddd-a0d4-18fe51c1de0d.png)
 
 #### Weight
 The weight data showed that out of all 30 participants, only 8 chose to log their weight.
@@ -94,7 +101,11 @@ The weight data showed that out of all 30 participants, only 8 chose to log thei
 - Based on the BMI values, it can be inferred that most of the participants who logged their weight are overweight.
 - The range of weight for the participants who logged their weight is from 115 lbs to 294 lbs.
 - It's worth noting that the one participant who weighs 294 lbs heavily increases the average BMI and weight values.
-![image.png](attachment:d2ce3533-7ffc-4838-af60-6f6a0422c5e5.png)
+
+
+![image 4](https://user-images.githubusercontent.com/95651618/232960990-f106efbd-0bdc-4ebe-b93a-9ea61c594d21.png)
+
+
 ## 5. Share
 [BellaBeat .pdf](https://github.com/LunaDGD/Bellabeat_Case_Study/files/11268190/BellaBeat.pdf)
 
